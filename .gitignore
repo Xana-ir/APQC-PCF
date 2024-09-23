@@ -1,2 +1,5 @@
 *.drawio.bkp
 *.bkp
+*.dtmp
+*.drawio.dtmp
+
